@@ -1,9 +1,9 @@
 # Air-Pollution-Analysis
 
-##Python Libraries
+## Python Libraries
 Numpy,Plotly, Pandas, Matplotib
 
-##Data Cleaning Mehtodology
+## Data Cleaning Mehtodology
 Review dataset
 Revemoing duplicate rows
 Remove irrelevant information
